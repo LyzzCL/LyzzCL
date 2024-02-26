@@ -1,16 +1,30 @@
-### Hi there 👋
+## 💠 Welcome to my Profile 💠
 
-<!--
-**LyzzCL/LyzzCL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔹About me🔹
+I'm a full stack developer interested in everything about the video game industry with experience in web development. Right now I'm focusing on polishing my front-end and game programming/design skills.
 
-Here are some ideas to get you started:
+### 🔹Current Stack🔹
+These are some of the most important technologies which I'm currently using.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+❇️ HTML, CSS, JS  
+❇️ Vue  
+❇️ Astro  
+❇️ Tailwind  
+✴️ React & React Native  
+✴️ Godot Engine  
+
+##### ❇️ --> Favorite - Experienced | ✴️ --> Studying - Improving
+
+### 🔹Other Skills🔹
+Technologies or languages I haven't used in a while but that I know and like.
+
+🔸 Python  
+🔸 C++  
+🔸 Java  
+🔸 Flask  
+🔸 SQL  
+
+### 🔹Languages🔹
+
+🔸 **Spanish:** Native  
+🔸 **English:** B2  
